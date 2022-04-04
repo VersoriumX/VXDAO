@@ -1,0 +1,4 @@
+git remote add origin https://github.com/VersoriumX/git-checkout--b-solana-labs-main-main-git-pull-https-github.com-solana-labs-token-list.git-main.git
+git branch -M main
+git push -u origin main
+
